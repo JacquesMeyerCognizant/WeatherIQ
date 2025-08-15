@@ -1,0 +1,10 @@
+xarray
+netCDF4
+mutagen
+cartopy
+moviepy
+imgkit
+
+# The following packages are recommended to be installed via conda:
+# conda install -c conda-forge ffmpeg --yes
+# conda install -c conda-forge manim --yes
