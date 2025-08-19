@@ -9,7 +9,7 @@ in the WeatherBench 2 format.
 Due to GitHub's file size limitations, the following files are not included in this repository:
 
 - GenCast 1x0 model file (model.npz)
-- Input example data (example_input.npz)
+- Input data (source-era5_date-2019-03-29_res-1.0_levels-13_steps-01.nc)
 
 These files are available for download at: 
 

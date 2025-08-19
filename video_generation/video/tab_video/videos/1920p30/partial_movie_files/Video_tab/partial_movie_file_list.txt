@@ -1,3 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:/home/ec2-user/SageMaker/v5_file_management/video/tab_video/videos/1920p30/partial_movie_files/Video_tab/2292448652_1732855068_223132457.mp4'
-file 'file:/home/ec2-user/SageMaker/v5_file_management/video/tab_video/videos/1920p30/partial_movie_files/Video_tab/2231502405_2304249630_3036613316.mp4'

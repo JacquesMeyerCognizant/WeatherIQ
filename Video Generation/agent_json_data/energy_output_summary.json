@@ -1,0 +1,26 @@
+{
+    "All Turbines in Race Bank": [
+        {
+            "Day": "Day 1",
+            "Timestamp": "2019-04-01",
+            "weekday": "Monday",
+            "Average Energy Output (kWh)": "44.3k",
+            "Total Energy (kWh/all turbines)": "1.1M"
+        },
+        {
+            "Day": "Day 2",
+            "Timestamp": "2019-04-02",
+            "weekday": "Tuesday",
+            "Average Energy Output (kWh)": "15.2k",
+            "Total Energy (kWh/all turbines)": "364.6k"
+        },
+        {
+            "Day": "Day 3",
+            "Timestamp": "2019-04-03",
+            "weekday": "Wednesday",
+            "Average Energy Output (kWh)": "0.0",
+            "Total Energy (kWh/all turbines)": "0.0"
+        }
+    ],
+    "Turbine Count": 91
+}

@@ -1,0 +1,41 @@
+{
+    "Daily Energy Summary": [
+        {
+            "Day": "Day 1",
+            "Date": "2019-04-01",
+            "Total Energy (kWh/turbine)": 11684.81142691249,
+            "Average Energy (kWh/turbine)": 486.86714278802043
+        },
+        {
+            "Day": "Day 2",
+            "Date": "2019-04-02",
+            "Total Energy (kWh/turbine)": 4006.1045227900977,
+            "Average Energy (kWh/turbine)": 166.92102178292075
+        },
+        {
+            "Day": "Day 3",
+            "Date": "2019-04-03",
+            "Total Energy (kWh/turbine)": 0.0,
+            "Average Energy (kWh/turbine)": 0.0
+        }
+    ],
+    "Overall Summary": {
+        "Total Energy (kWh/turbine)": 15690.915949702588,
+        "Overall Average Energy (kWh/turbine)": 217.92938819031372
+    },
+    "Average Points (All Turbines)": [
+        {
+            "Timestamp": "2019-04-01 12:00:00",
+            "Average Energy Output (kWh)": 44304.90999370986
+        },
+        {
+            "Timestamp": "2019-04-02 12:00:00",
+            "Average Energy Output (kWh)": 15189.812982245789
+        },
+        {
+            "Timestamp": "2019-04-03 12:00:00",
+            "Average Energy Output (kWh)": 0.0
+        }
+    ],
+    "Turbine Count": 91
+}
