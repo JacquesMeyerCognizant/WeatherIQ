@@ -1,0 +1,28 @@
+name: gencast
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - scipy
+  - pandas
+  - xarray=2023.12.0
+  - netCDF4
+  - dask
+  - gcsfs
+  - cdsapi
+  - boto3
+  - xarray-datatree
+  - matplotlib
+  - cartopy
+  - pip
+  - pip:
+      - "numexpr>=2.8.4"
+      - dm-haiku
+      - git+https://github.com/deepmind/graphcast.git@main
+      - "jax[cuda12]"
+
+
+
+

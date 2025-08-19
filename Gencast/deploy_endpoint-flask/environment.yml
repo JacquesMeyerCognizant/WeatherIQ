@@ -1,0 +1,21 @@
+name: gencast
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - scipy
+  - pandas
+  - xarray=2023.12.0
+  - netCDF4
+  - dask
+  - gcsfs
+  - cdsapi
+  - boto3
+  - pip:
+      # GraphCast from GitHub (master branch)
+      - git+https://github.com/deepmind/graphcast.git@main
+      - "jax[cuda12]"
+

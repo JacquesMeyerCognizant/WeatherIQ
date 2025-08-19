@@ -1,0 +1,11 @@
+numpy==1.26.4
+scipy
+pandas
+xarray==2023.12.0
+xarray-datatree
+netCDF4
+gcsfs
+dask
+cdsapi
+jax[cuda12]
+git+https://github.com/deepmind/graphcast.git@main
