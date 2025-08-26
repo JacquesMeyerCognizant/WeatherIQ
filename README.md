@@ -17,3 +17,14 @@ This project explores and demonstrates the capabilities of DeepMind’s GenCast 
 ## Project Architecture
 
 ![Project Architecture](Project_Documentation/Project_Architecture.png)
+
+
+## 👨‍💻 Author
+
+**Jacques Meyer**  
+Internship : Programmer Analyst at Cognizant UK  
+GitHub: @  
+Email: jacques.meyer@example.com
+
+
+
