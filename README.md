@@ -8,7 +8,7 @@ This project explores and demonstrates the capabilities of DeepMind’s GenCast 
 
 | Folder                                        | Description                                                                 |
 |------------------------------------------|-----------------------------------------------------------------------------|
-| Gencast *1                     | Contains research, demo code, and deployment scripts related to DeepMind's GenCast weather forecasting model. It includes tools to run the model locally and on AWS SageMaker. |
+| Gencast *1                    | Contains research, demo code, and deployment scripts related to DeepMind's GenCast weather forecasting model. It includes tools to run the model locally and on AWS SageMaker. |
 | Mobile Interface *2         | Professional mobile interface for weather prediction designed specifically for offshore windfarm engineers. This application provides an intuitive way to input forecast parameters and access weather predictions powered by GenCast technology.  |
 | Project Documentation               | Contains all the needed documentaton, research and project context.   |
 | Quest Endpoint code          | Contains the code of the AWS skill builder Quest lab "Bring your owm model (BYOM)" from the Machine Learning Island. This code can be reused to better the deployement of our WeatherIQ Gencast model on a Sagemaker Endpoint.                   |
@@ -23,8 +23,8 @@ This project explores and demonstrates the capabilities of DeepMind’s GenCast 
 
 **Jacques Meyer**  
 Internship : Programmer Analyst at Cognizant UK  
-GitHub: @  
-Email: jacques.meyer@example.com
+Email: pro.meyer.jack@gmail.com
+Linkedin: Jacques Meyer
 
 
 
